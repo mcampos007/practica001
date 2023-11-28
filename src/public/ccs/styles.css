@@ -1,0 +1,11 @@
+* {
+    color: burlywood;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.table {
+    background-color: lightgray; /* Cambia lightgray por el color que desees */
+}
